@@ -10,7 +10,7 @@
 		<tr>
 			<th>Account Number</th>
 			<th><a href="sortByName.mm">Holder Name</a></th>
-			<th><a href="sortByBalance.mm">Account Balance</th>
+			<th><a href="sortByBalance.mm">Account Balance</a></th>
 			<th>Salary</th>
 			<th>Over Draft Limit</th>
 			<th>Type Of Account</th>
